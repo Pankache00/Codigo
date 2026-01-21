@@ -1,0 +1,5 @@
+﻿id_especie;nombre_comun;nombre_cientifico;familia;estatus_conservacion
+1;Tanuki;Nyctereutes procyonoides;Canidae;Preocupación menor
+2;Grulla coronada;Balearica regulorum;Gruidae;Vulnerable
+3;Panda rojo;Ailurus fulgens;Ailuridae;En peligro
+4;Dragón de Komodo;Varanus komodoensis;Varanidae;En peligro

@@ -1,0 +1,4 @@
+﻿id_categoria;rango;descripcion
+1;Verde;Óptimo - Sin problemas graves
+2;Amarillo;En seguimiento - Condición media
+3;Rojo;Estado grave - Requiere atención

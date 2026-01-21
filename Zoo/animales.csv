@@ -1,0 +1,5 @@
+﻿id_animal;nombre;especie_id;sexo;año_nacimiento;pais_origen;continente_origen;zoo_id
+1;Kitsu;1;F;2017;Japón;Asia;1
+2;Tora;3;M;2018;Nepal;Asia;1
+3;Hikari;2;F;2020;Japón;Asia;1
+4;Kumo;4;M;2016;Indonesia;Asia;2
