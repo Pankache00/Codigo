@@ -1,4 +1,4 @@
-# Código – Portafolio de Análisis de Datos
+# Código – Portafolio de Análisis de Datos 📚
 
 Repositorio que agrupa proyectos personales y académicos desarrollados durante mi formación en
 **Análisis de Datos y Ciencia de Datos**, con foco en Python, SQL, ETL y análisis aplicado a negocio.
@@ -14,7 +14,7 @@ autónomos orientados a la toma de decisiones.
 
 🔗 https://github.com/Pankache00/SalesPredictor-AI
 
-Proyecto autónomo orientado a la **predicción de demanda en un contexto retail ficticio**, utilizando
+Proyecto orientado a la **predicción de demanda en un contexto retail ficticio**, utilizando
 **SARIMAX**, un **ETL reproducible en Python** y análisis estadístico para apoyar la gestión comercial
 (evitar quiebres de stock y sobrestock).
 
