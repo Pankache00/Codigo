@@ -1,0 +1,6 @@
+*.db
+*.sqlite
+*.sqlite3
+*.pbix
+__pycache__/
+.ipynb_checkpoints/

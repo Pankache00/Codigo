@@ -1,0 +1,11 @@
+# Bases de datos (no versionar)
+*.db
+*.sqlite
+*.sqlite3
+
+# Power BI (opcional, evitar archivos pesados)
+*.pbix
+
+# Cache/temporales
+__pycache__/
+.ipynb_checkpoints/
