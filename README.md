@@ -1,4 +1,4 @@
-# Mi Portafolio 💻
+# Mi Portafolio
 
 Portafolio de análisis de datos y proyectos personales
 
